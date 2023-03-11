@@ -3,6 +3,16 @@
 ## Project/Goals
 (fill in your description and goals here)
 
+[google](google.com)
+
+![alt text](picture.jpg)
+
+$y = mx + c$
+
+```sql
+SELECT * FROM myTable;
+```
+
 ## Process
 ### (your step 1)
 ### (your step 2)
